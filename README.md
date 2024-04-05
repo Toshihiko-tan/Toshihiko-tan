@@ -15,7 +15,7 @@ I am fluent in Japanese, English, French, and Chinese. I can speak a little bit 
 - Email: tansam@umich.edu
 
 ## ⚡ Fun fact
-I love music, and I used to work and DJ at KCSB-FM, an independent radio station located in Santa Barbara, CA.
+I LOVE music, and I've even worked and DJed at KCSB-FM, a cool indie radio station in Santa Barbara, CA.
 
 ---
 
