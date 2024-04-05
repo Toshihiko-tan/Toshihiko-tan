@@ -6,7 +6,7 @@ I'm a undergraduate student double majoring in Data Science & Statistics, with a
 R, Python, C++, SQL
 
 ## 📫 How to reach me
-- LinkedIn: [(https://www.linkedin.com/in/samuel-tan-b00606221/)]
+- LinkedIn: https://www.linkedin.com/in/samuel-tan-b00606221
 - Instagram: toshihiko_tan
 - Email: tansam@umich.edu
 
