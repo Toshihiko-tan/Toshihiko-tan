@@ -11,7 +11,6 @@ I am fluent in Japanese, English, French, and Chinese. I can speak a little bit 
 
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/samuel-tan-b00606221
-- Instagram: toshihiko_tan
 - Email: tansam@umich.edu
 
 ## ⚡ Fun fact
