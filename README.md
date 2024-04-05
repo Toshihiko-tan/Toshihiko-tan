@@ -4,7 +4,7 @@
 I'm a undergraduate student double majoring in Data Science & Statistics at the University of Michigan.
 
 ## 🛠 Skills
-- R, Python, C++, SQL
+R, Python, C++, SQL
 
 ## 💬 Languages
 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
