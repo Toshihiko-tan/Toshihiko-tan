@@ -1,11 +1,10 @@
 ### Hi there, I'm Samuel Tan, aka Junyan/Toshihiko. 👋
+
 ## 🚀 About Me
 I'm a undergraduate student double majoring in Data Science & Statistics, with an accelerated degree program in M.S. Biostatistics at the University of Michigan.
 
 ## 🛠 Skills
-- \(Programming\) Languages: R, Python, C++, SQL
-- Machine Learning
-- Data Analysis
+- R, Python, C++, SQL
 
 ## 💬 Languages
 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
