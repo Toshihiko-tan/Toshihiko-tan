@@ -1,4 +1,4 @@
-### Hi there, I'm Samuel Tan, aka Toshihiko. 👋
+### Hi there, I'm Samuel Tan, aka Junyan/Toshihiko. 👋
 ## 🚀 About Me
 I'm a undergraduate student double majoring in Data Science & Statistics, with an accelerated program in M.S. Biostatistics at the University of Michigan.
 
