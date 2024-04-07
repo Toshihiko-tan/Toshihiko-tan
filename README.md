@@ -16,10 +16,6 @@ I am fluent in Japanese, English, French, and Chinese. I can speak a little bit 
 ## ⚡ Fun fact
 I LOVE music, and I've even worked and DJed at KCSB-FM, a cool indie radio station in Santa Barbara, CA.
 
----
-
-✨ Thank you for visiting my profile! ✨
-
 <!--
 **Toshihiko-tan/Toshihiko-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
