@@ -9,11 +9,12 @@ Accelerated Master’s Student in Biostatistics at the University of Michigan Sc
 - 💬 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
 
 - LinkedIn : https://www.linkedin.com/in/samuel-tan-b00606221
+  
 - 📫 : **tansam@umich.edu**
 
-⚡
-- 🎧 I've worked and DJed at KCSB-FM, a cool indie radio station in Santa Barbara, CA.
-- 🎸 I am the bassist/guitarist of a student band at UofM.
+⚡ Fun Facts: 
+🎧 I've worked and DJed at KCSB-FM, a cool indie radio station in Santa Barbara, CA.
+🎸 I am the bassist/guitarist of a student band at UofM.
 
 <!--
 **Toshihiko-tan/Toshihiko-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
