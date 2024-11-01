@@ -7,19 +7,19 @@ Undergraduate Data Science & Statistics Honors Student at the University of Mich
 Accelerated Master’s Student in Biostatistics at the University of Michigan School of Public Health 🏥
 
 
-- ✏️ R, Python, C++, SQL
+✏️ R, Python, C++, SQL
 
 
-- 💬 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
+💬 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
 
 
 
 
-- LinkedIn : **https://www.linkedin.com/in/samuel-tan-b00606221**
+LinkedIn : **https://www.linkedin.com/in/samuel-tan-b00606221**
   
-- 📫 : **tansam@umich.edu**
+📫 : **tansam@umich.edu**
 
-- 📸 : **https://www.instagram.com/toshihiko_tan/**
+📸 : **https://www.instagram.com/toshihiko_tan/**
 
 
 
