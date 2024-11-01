@@ -11,7 +11,8 @@ Accelerated Master’s Student in Biostatistics at the University of Michigan Sc
 - LinkedIn : https://www.linkedin.com/in/samuel-tan-b00606221
 - 📫 : **tansam@umich.edu**
 
-- ⚡ Fun Fact
+- ⚡ Fun Fact:
+
 I LOVE music. I've worked and DJed at KCSB-FM, a cool indie radio station in Santa Barbara, CA. I am also the bassist/guitarist of a student band at UofM.
 
 <!--
