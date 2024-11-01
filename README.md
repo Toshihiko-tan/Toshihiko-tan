@@ -15,11 +15,11 @@ Accelerated Master’s Student in Biostatistics at the University of Michigan Sc
 
 
 
-LinkedIn : **https://www.linkedin.com/in/samuel-tan-b00606221**
+- LinkedIn : **https://www.linkedin.com/in/samuel-tan-b00606221**
   
-📫 : **tansam@umich.edu**
+- 📫 : **tansam@umich.edu**
 
-📸 : **https://www.instagram.com/toshihiko_tan/**
+- 📸 : **https://www.instagram.com/toshihiko_tan/**
 
 
 
