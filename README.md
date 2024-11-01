@@ -30,6 +30,8 @@ Accelerated Master’s Student in Biostatistics at the University of Michigan Sc
 
 🎸 I am the bassist/guitarist of a student band at UofM.
 
+🗡️ Kendo is my favorite sport.
+
 <!--
 **Toshihiko-tan/Toshihiko-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
