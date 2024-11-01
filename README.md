@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I am Samuel Tan, aka Junyan / Toshihiko.</h1>
 
 Undergraduate Data Science & Statistics Honors Student at the University of Michigan 〽️
+
 Accelerated Master’s Student in Biostatistics at the University of Michigan School of Public Health 🏥
 
 - ✏️ R, Python, C++, SQL
