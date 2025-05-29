@@ -11,6 +11,7 @@ B.S. Data Science (Hons.) & B.S. Statistics at the University of Michigan 〽️
 💬 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
 
 
+💡 My research interests are in Population Genetics, Neural Networks, and Large Language Models.
 
 
 - LinkedIn : **https://www.linkedin.com/in/samuel-tan-b00606221**
