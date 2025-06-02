@@ -2,6 +2,8 @@
 
 Accelerated Master’s Student in Biostatistics at the University of Michigan School of Public Health
 
+Research Assistant at the University of Michigan, Department of Statistics
+
 B.S. Data Science (Hons.) & B.S. Statistics at the University of Michigan 〽️
 
 
