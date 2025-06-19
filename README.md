@@ -16,14 +16,22 @@ B.S. Data Science (Hons.) & B.S. Statistics at the University of Michigan 〽️
 💡 My research interests are in Population Genetics, Neural Networks, and Large Language Models.
 
 
-- LinkedIn : **https://www.linkedin.com/in/samuel-tan-b00606221**
-  
-- 📫 : **tansam@umich.edu**
-
-- 📸 : **https://www.instagram.com/toshihiko_tan/**
+<br/>
 
 
 
+<a href="https://www.linkedin.com/in/samuel-tan-b00606221">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/toshihiko_tan/">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="tansam@umich.edu">
+<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+
+<br />
 
 ⚡ Fun Facts: 
 
