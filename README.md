@@ -21,7 +21,7 @@ Accelerated Master’s Student in Biostatistics at the University of Michigan Sc
 
 Research Assistant at the University of Michigan, Department of Statistics
 
-B.S. Data Science (Hons.) & B.S. Statistics at the University of Michigan 〽️
+B.S. Data Science (Hons.) & B.S. Statistics, Phi Beta Kappa, at the University of Michigan 〽️
 
 
 ✏️ R, Python, C++, SQL, Java, JavaScript
@@ -30,7 +30,7 @@ B.S. Data Science (Hons.) & B.S. Statistics at the University of Michigan 〽️
 💬 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
 
 
-💡 My research interests are in Population Genetics, Neural Networks, and Large Language Models.
+💡 My research interests are in Population Genetics, Phylodynamics, Neural Networks, and Large Language Models.
 
 
 ⚡ **Fun Facts:**
