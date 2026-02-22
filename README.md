@@ -39,7 +39,7 @@ B.S. Data Science (Hons.) & B.S. Statistics, Phi Beta Kappa, at the University o
 
 🎸 I am the bassist/guitarist of a student band at UofM.
 
-🗡️ Kendo is my favorite sport.
+🗡️ Kendo is my favorite sport; I got my Shodan (first degree black belt) in 2025.
 
 <!--
 **Toshihiko-tan/Toshihiko-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
