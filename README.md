@@ -1,57 +1,39 @@
-<h1 align="center">Hi, I am Samuel Tan, aka Junyan / Toshihiko.</h1>
+<h1 align="center">Hi, I'm Samuel (Junyan) Tan 🧬</h1>
 
-<br/>
+<p align="center">
+  <a href="https://toshihiko-tan.github.io/"><b>Personal Website</b></a> •
+  <a href="https://www.linkedin.com/in/samuel-tan-b00606221"><b>LinkedIn</b></a> •
+  <a href="mailto:tansam@umich.edu"><b>Email</b></a>
+</p>
 
+---
 
+### 🔭 Research & Development
+I am an **incoming PhD student in Quantitative and Computational Biology at USC** (Fall 2026). Currently, I'm finishing an **Accelerated Master's in Biostatistics** at the University of Michigan.
 
-<a href="https://www.linkedin.com/in/samuel-tan-b00606221">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/toshihiko_tan/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:tansam@umich.edu">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
+My work focuses on the intersection of **Population Genetics and Machine Learning**, specifically building high-performance tools for demographic inference and biological time-series forecasting.
 
-<br />
+- 🧬 **Recent Project:** [demesinfer](https://github.com/jthlab/demesinfer) — A JAX-based Python toolkit for rapid demographic inference.
+- 🤖 **Honors Thesis:** [Gluco-LLM](https://github.com/Toshihiko-tan/Gluco-LLM) — Zero-shot LLM framework with RAG for CGM time-series forecasting.
+- 🎓 **Education:** M.S. Biostatistics (U-M), B.S. Data Science & Stats (U-M, Phi Beta Kappa).
 
-Accelerated Master’s Student in Biostatistics at the University of Michigan School of Public Health
+---
 
-Research Assistant at the University of Michigan, Department of Statistics
+### 🛠️ Technical Stack
+* **Languages:** Python (JAX, PyTorch, Hugging Face), R (Tidyverse, Shiny), C++, C, SQL.
+* **Specialties:** Demographic Inference, LLMs/RAG, Phylodynamics, MCMC, HMMs.
+* **Tools:** High-Performance Computing (HPC), Git, Google Cloud Platform (GCP).
 
-B.S. Data Science (Hons.) & B.S. Statistics, Phi Beta Kappa, at the University of Michigan 〽️
+---
 
+### ⚡ Fun Facts
+* 🎸 **Music:** 5-string bassist/guitarist; former DJ at **KCSB-FM** in Santa Barbara.
+* ⚔️ **Martial Arts:** Kendo Shodan (1st Degree Black Belt).
+* 🏍️ **Travel:** Recently completed a solo motorcycle tour around Okinawa, Japan (39/47 prefectures visited).
+* 🗣️ **Languages:** Fluent in English, Chinese, Japanese, and French; learning Spanish.
 
-✏️ R, Python, C++, SQL, Java, JavaScript
+---
 
-
-💬 I am fluent in Japanese, English, French, and Chinese. I can speak a little bit of Spanish as well.
-
-
-💡 My research interests are in Population Genetics, Phylodynamics, Neural Networks, and Large Language Models.
-
-
-⚡ **Fun Facts:**
-
-🎧 I've worked and DJed at KCSB-FM, a cool indie radio station in Santa Barbara, CA.
-
-🎸 I am the bassist/guitarist of a student band at UofM.
-
-🗡️ Kendo is my favorite sport; I got my Shodan (first degree black belt) in 2025.
-
-<!--
-**Toshihiko-tan/Toshihiko-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshihiko-tan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshihiko-tan&layout=compact&theme=tokyonight)
