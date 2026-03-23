@@ -20,7 +20,7 @@ My work focuses on the intersection of **Population Genetics and Machine Learnin
 ---
 
 ### 🛠️ Technical Stack
-* **Languages:** Python (JAX, PyTorch, Hugging Face), R (Tidyverse, Shiny), C++, C, SQL.
+* **Languages:** Python, R, C++, C, SQL, Java, JavaScript.
 * **Specialties:** Demographic Inference, LLMs/RAG, Phylodynamics, MCMC, HMMs.
 * **Tools:** High-Performance Computing (HPC), Git, Google Cloud Platform (GCP).
 
