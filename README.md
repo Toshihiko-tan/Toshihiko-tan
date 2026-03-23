@@ -31,9 +31,3 @@ My work focuses on the intersection of **Population Genetics and Machine Learnin
 * ⚔️ **Martial Arts:** Kendo Shodan (1st Degree Black Belt).
 * 🏍️ **Travel:** Recently completed a solo motorcycle tour around Okinawa, Japan (39/47 prefectures visited).
 * 🗣️ **Languages:** Fluent in English, Chinese, Japanese, and French; learning Spanish.
-
----
-
-### 📊 Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshihiko-tan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshihiko-tan&layout=compact&theme=tokyonight)
