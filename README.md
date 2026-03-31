@@ -15,7 +15,7 @@ My work focuses on the intersection of **Population Genetics and Machine Learnin
 
 - 🧬 **Recent Project:** [demesinfer](https://github.com/jthlab/demesinfer) — A JAX-based Python toolkit for rapid demographic inference.
 - 🤖 **Honors Thesis:** [Gluco-LLM](https://github.com/Toshihiko-tan/Gluco-LLM) — Zero-shot LLM framework with RAG for CGM time-series forecasting.
-- 🎓 **Education:** M.S. Biostatistics (U-M), B.S. Data Science & Stats (U-M, Phi Beta Kappa).
+- 🎓 **Education:** M.S. Biostatistics (U-M), B.S. (Hons.) Data Science & Stats (U-M, Phi Beta Kappa).
 
 ---
 
