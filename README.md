@@ -9,7 +9,7 @@
 ---
 
 ### 🔭 Research & Development
-I am an **incoming PhD student in Quantitative and Computational Biology at USC** (Fall 2026). Currently, I'm finishing an **Accelerated Master's in Biostatistics** at the University of Michigan.
+I am an **incoming PhD student in Quantitative and Computational Biology at the University of Southern California** (Fall 2026). Currently, I'm finishing an **Accelerated Master's in Biostatistics** at the University of Michigan.
 
 My work focuses on the intersection of **Population Genetics and Machine Learning**, specifically building high-performance tools for demographic inference and biological time-series forecasting.
 
