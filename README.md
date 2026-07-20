@@ -3,13 +3,13 @@
 <p align="center">
   <a href="https://toshihiko-tan.github.io/"><b>Personal Website</b></a> •
   <a href="https://www.linkedin.com/in/samuel-tan-b00606221"><b>LinkedIn</b></a> •
-  <a href="mailto:tansam@umich.edu"><b>Email</b></a>
+  <a href="mailto:junyant@usc.edu"><b>Email</b></a>
 </p>
 
 ---
 
 ### 🔭 Research & Development
-I am an **incoming PhD student in Quantitative and Computational Biology at the University of Southern California** (Fall 2026). Currently, I'm finishing an **Accelerated Master's in Biostatistics** at the University of Michigan.
+I am a Ph.D. student in the Department of Quantitative and Computational Biology at the **University of Southern California (USC)**.
 
 My work focuses on the intersection of **Population Genetics and Machine Learning**, specifically building high-performance tools for demographic inference and biological time-series forecasting.
 
@@ -29,5 +29,5 @@ My work focuses on the intersection of **Population Genetics and Machine Learnin
 ### ⚡ Fun Facts
 * 🎸 **Music:** 5-string bassist/guitarist; former DJ at **KCSB-FM** in Santa Barbara.
 * ⚔️ **Martial Arts:** Kendo Shodan (1st Degree Black Belt).
-* 🏍️ **Travel:** Recently completed a solo motorcycle tour around Okinawa, Japan (39/47 prefectures visited).
+* 🏍️ **Travel:** I have visited all of Japan's 47 prefectures.
 * 🗣️ **Languages:** Fluent in English, Chinese, Japanese, and French; learning Spanish.
