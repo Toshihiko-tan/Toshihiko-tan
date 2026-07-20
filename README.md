@@ -13,7 +13,7 @@ I am a Ph.D. student in the Department of Quantitative and Computational Biology
 
 My work focuses on the intersection of **Population Genetics and Machine Learning**, specifically building high-performance tools for demographic inference and biological time-series forecasting.
 
-- 🧬 **Recent Project:** [demesinfer](https://github.com/jthlab/demesinfer) — A JAX-based Python toolkit for rapid demographic inference.
+- 🧬 **Recent Project:** [demestats](https://github.com/jthlab/demestats) — A JAX-based Python toolkit for rapid demographic inference.
 - 🤖 **Honors Thesis:** [Gluco-LLM](https://github.com/Toshihiko-tan/Gluco-LLM) — Zero-shot LLM framework with RAG for CGM time-series forecasting.
 - 🎓 **Education:** M.S. Biostatistics (U-M), B.S. (Hons.) Data Science & Stats (U-M, Phi Beta Kappa).
 
